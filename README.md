@@ -1,8 +1,8 @@
 # 🕵️ OMNISPY – Ultimate Spyware Suite
 
 <div align="center">
+<img width="1958" height="803" alt="1000296677" src="https://github.com/user-attachments/assets/ca12931e-cc9c-4e99-9cc7-87607aa95820" />
 
-<img width="1254" height="1254" alt="Omnispy" src="https://github.com/user-attachments/assets/10d572e6-ae64-4624-9f45-51dffdd1406c" />
 
 **OMNISPY** adalah spyware all-in-one yang bisa dikontrol lewat **Telegram** dan **dashboard web**.  
 Dilengkapi dengan **20 fitur canggih**, dibuat untuk **edukasi dan pengujian keamanan**.
